@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-svg-map",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@svg-maps/usa": "^1.1.1",
+    "nuxt": "^2.14.0",
+    "vue-svg-map": "^1.2.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
